@@ -6,10 +6,10 @@ Anggota:
 2. Ilham Ghiffari Noorrahmat (G64180012)
 3. Hana Salsabila (G64180051)
 
-### Story
+## Story
 
-### Rules
+## Rules
 
-### Goals
+## Goals
 
-### Pembagian Role
+## Pembagian Role
