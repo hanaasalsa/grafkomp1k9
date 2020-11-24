@@ -7,7 +7,7 @@ Anggota:
 3. Hana Salsabila (G64180051)
 
 ## Story
-Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Suatu hari lahannya diserang oleh banyak sekali pengganggu. Semua tanamannya mati, petani merasa sangat sedih tidak bisa membesarkan tanamannya dan tentunya dia tidak mendapatkan penghasilan. Karena itu, pak tani bertekad akan berjuang melawan para pengganggu yang berani menyerang lahannya dan tanaman-tanamannya. 
+Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Suatu hari lahannya diserang oleh banyak sekali pengganggu. Semua tanamannya mati, Pak Tani merasa sangat sedih tidak bisa membesarkan tanamannya dan tentunya dia tidak mendapatkan penghasilan. Karena itu, Pak Tani bertekad akan berjuang melawan para pengganggu yang berani menyerang lahannya dan tanaman-tanamannya. Pak Tani akan menyelamatkan tanaman-tanamannya!
 
 ## Rules
 
