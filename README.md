@@ -1,10 +1,12 @@
 # Farmer Saga
 Project Grafkom Kelompok 9 Paralel 1
 
-Anggota:
-1. Rian Reftian Nurochmat (G64180009)
-2. Ilham Ghiffari Noorrahmat (G64180012)
-3. Hana Salsabila (G64180051)
+## Anggota Kelompok dan Pembagian Role
+| Nama | NIM | Role |
+| ----------- | :---------: | ----------: |
+| Rian Reftian Nurochmat | G64180009 | Isi 3 - 1 |
+| Ilham Ghiffari Noorrahmat | G64180012 | Isi 3 - 2 |
+| Hana Salsabila | G64180051 | Isi 3 - 3 |
 
 ## Story
 Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh banyak sekali pengganggu. Tanamannya diculik oleh para pengganggu tersebut. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
@@ -25,9 +27,3 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 - Berhasil melewati state level tanpa dibunuh musuh
 - Menyelamatkan tanaman dari pengganggu
 
-## Pembagian Role
-| Nama | NIM | Role |
-| ----------- | :---------: | ----------: |
-| Rian Reftian Nurochmat | G64180009 | Isi 3 - 1 |
-| Ilham Ghiffari Noorrahmat | G64180012 | Isi 3 - 2 |
-| Hana Salsabila | G64180051 | Isi 3 - 3 |
