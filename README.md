@@ -1,6 +1,5 @@
 # Farmer Saga
 Project Grafkom Kelompok 9 Paralel 1
-[Platformer Game]
 
 ## Anggota Kelompok dan Pembagian Role
 | Nama | NIM | Role |
