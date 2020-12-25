@@ -2,7 +2,7 @@
 Project Grafkom Kelompok 9 Paralel 1
 
 Anggota:
-1. Rian Reftian Nurochmat (G64080009)
+1. Rian Reftian Nurochmat (G64180009)
 2. Ilham Ghiffari Noorrahmat (G64180012)
 3. Hana Salsabila (G64180051)
 
@@ -26,3 +26,8 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 - Menyelamatkan tanaman dari pengganggu
 
 ## Pembagian Role
+| Nama | NIM | Role |
+| ----------- | :---------: | ----------: |
+| Rian Reftian Nurochmat | G64180009 | Isi 3 - 1 |
+| Ilham Ghiffari Noorrahmat | G64180012 | Isi 3 - 2 |
+| Hana Salsabila | G64180051 | Isi 3 - 3 |
