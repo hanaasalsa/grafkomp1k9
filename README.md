@@ -36,7 +36,3 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 6. GUI : [Blue Cartoon GUI Skin by 3d.rina](https://assetstore.unity.com/packages/2d/gui/blue-cartoon-gui-skin-19535)
 7. Sound : [Casual Jingles by GWriterStud](https://assetstore.unity.com/packages/audio/music/casual-jingles-022420-163758)
 
-
-7. Sound
-
-
