@@ -47,4 +47,6 @@ Game movement dilakukan dengan input menggunakan keyboard
 - `Github` :
 - `Figma` :
 
+## Screenshot Game
+
 
