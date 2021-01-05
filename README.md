@@ -11,6 +11,7 @@ Project Grafkom Kelompok 9 Paralel 1
 ## Game yang sudah di build
 [Build game](https://github.com/randiandn29/grafkomp1k9/tree/main/Game)
 
+
 ## Story
 Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh para pengganggu. Tanamannya dicuri oleh para pengganggu yang merupakan segerombolan tikus tanah. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
 
