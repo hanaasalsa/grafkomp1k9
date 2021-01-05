@@ -27,3 +27,16 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 - Berhasil melewati state level tanpa dibunuh musuh
 - Menyelamatkan tanaman dari pengganggu
 
+## Assets
+1. Tilemap : [Platform Pack by JanaChumi](https://opengameart.org/content/platform-pack-0)
+2. Character : [Spine 2D Character by DucVu FX](https://assetstore.unity.com/packages/3d/animations/free-spine-2d-character-animation-177560)
+3. Environment : [2D Jungle Side-Scrolling Platformer Pack by Super Brutal Asset](https://assetstore.unity.com/packages/2d/environments/2d-jungle-side-scrolling-platformer-pack-78506)
+4. Enemy : [Rodents by AntumDeluge](https://opengameart.org/content/rodents-rat-rework)
+5. Plant Pickup : [Platformer Pickups Pack by Ravenmore](https://opengameart.org/content/platformer-pickups-pack)
+6. GUI : [Blue Cartoon GUI Skin by 3d.rina](https://assetstore.unity.com/packages/2d/gui/blue-cartoon-gui-skin-19535)
+7. Sound : [Casual Jingles by GWriterStud](https://assetstore.unity.com/packages/audio/music/casual-jingles-022420-163758)
+
+
+7. Sound
+
+
