@@ -10,6 +10,7 @@ Project Grafkom Kelompok 9 Paralel 1
 
 ## Game yang sudah di build
 [Build game](https://github.com/randiandn29/grafkomp1k9/tree/main/Game)
+
 ## Story
 Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh para pengganggu. Tanamannya dicuri oleh para pengganggu yang merupakan segerombolan tikus tanah. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
 
@@ -51,16 +52,4 @@ Game movement dilakukan dengan input menggunakan keyboard
 
 ## Screenshot Game
 ### Main menu
-![Main Menu](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_31_55.png)
-
-### Gameplay siang
-![Gameplay siang1](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_32_09.png)
-
-![Gameplay siang2](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_33_57.png)
-
-### Next level
-![Next level](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_41.png)
-
-### Gameplay malam
-![Gameplay malam](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_44.png)
 
