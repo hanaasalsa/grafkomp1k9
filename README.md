@@ -48,5 +48,5 @@ Game movement dilakukan dengan input menggunakan keyboard
 - `Figma` :
 
 ## Screenshot Game
-
+![sasassa](/Pictures/Screenshots/Screenshots (881).png)
 
