@@ -40,5 +40,5 @@ Game movement dilakukan dengan input menggunakan keyboard
 7. Sound : [Casual Jingles by GWriterStud](https://assetstore.unity.com/packages/audio/music/casual-jingles-022420-163758)
 
 ## Tools
-'hahaha'
+`hahaha`
 
