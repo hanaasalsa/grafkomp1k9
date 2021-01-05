@@ -9,19 +9,15 @@ Project Grafkom Kelompok 9 Paralel 1
 | Hana Salsabila | G64180051 | Isi 3 - 3 |
 
 ## Story
-Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh banyak sekali pengganggu. Tanamannya diculik oleh para pengganggu tersebut. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
+Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh para pengganggu. Tanamannya dicuri oleh para pengganggu yang merupakan segerombolan tikus tanah. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
 
 ## Rules
-- Petani dapat lompat melewati jurang
-- Petani dapat membunuh musuh
-- Petani dapat melewati dan mengabaikan musuh
-- Petani menanam tanaman dari bibit yang diberikan
-- Petani harus menyelamatkan tanaman yang diculik oleh penggangu
-- Jika petani tidak berhasil menyelamatkan tanaman dari pengganggu, tanaman akan mati
-- Jika petani berhasil menyelamatkan tanaman dari pengganggu, maka petani akan mendapatkan kembali tanamannya yang diculik
-- Musuh berupa tikus, tikus tanah, babi hutan, dan kelelawar
-- Dalam tiap level, terdapat 2 sesi yaitu siang dan malam
-- Sesi malam memiliki pengganggu yang berbeda dari siang hari yaitu kelelawar
+- Player movement : petani dapat berjalan, berjalan balik, lompat dan berlari
+- Petani dapat membunuh tikus dengan cara menginjaknya
+- Petani akan mati jika tertabrak musuh dan masuk ke jurang
+- Petani harus menyelamatkan tanaman yang dicuri oleh para tikus tanah
+- Terdapat 4 tanaman yang harus diselamatkan oleh Pak Tani yaitu Wortel, Bawang, Anggur, dan Tomat
+- Terdapat 2 level yaitu Level Siang dan Malam
 
 ## Goals
 - Berhasil melewati state level tanpa dibunuh musuh
