@@ -16,12 +16,12 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 - Petani dapat membunuh tikus dengan cara menginjaknya
 - Petani akan mati jika tertabrak musuh dan masuk ke jurang
 - Petani harus menyelamatkan tanaman yang dicuri oleh para tikus tanah
-- Terdapat 4 tanaman yang harus diselamatkan oleh Pak Tani yaitu Wortel, Bawang, Anggur, dan Tomat
+- Terdapat 4 tanaman yang harus diselamatkan oleh Pak Tani yaitu Wortel, Bawang, Anggur dan Tomat
 - Terdapat 2 level yaitu Level Siang dan Malam
 
 ## Goals
-- Berhasil melewati state level tanpa dibunuh musuh
-- Menyelamatkan tanaman dari pengganggu
+- Menyelamatkan seluruh 4 tanaman yang dicuri (Wortel, Bawang, Anggur dan Tomat)
+- Berhasil melewati state level tanpa dibunuh musuh dan masuk ke jurang
 
 ## Game Movement
 Game movement dilakukan dengan input menggunakan keyboard
