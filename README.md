@@ -27,6 +27,13 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 - Berhasil melewati state level tanpa dibunuh musuh
 - Menyelamatkan tanaman dari pengganggu
 
+## Game Movement
+Game movement dilakukan dengan input menggunakan keyboard
+- Walk : Arrows (>)
+- Walk Back : Arrows (<)
+- Run : Shift + >/<
+- Jump : Space bar
+
 ## Assets
 1. Tilemap : [Platform Pack by JanaChumi](https://opengameart.org/content/platform-pack-0)
 2. Character : [Spine 2D Character by DucVu FX](https://assetstore.unity.com/packages/3d/animations/free-spine-2d-character-animation-177560)
