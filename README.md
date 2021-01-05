@@ -25,10 +25,10 @@ Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hi
 
 ## Game Movement
 Game movement dilakukan dengan input menggunakan keyboard
-- Walk : Arrows (>)
-- Walk Back : Arrows (<)
-- Run : Shift + >/<
-- Jump : Space bar
+- Walk : `Arrows (>)`
+- Walk Back : `Arrows (<)`
+- Run : `Shift + >/<`
+- Jump : `Space bar`
 
 ## Assets
 1. Tilemap : [Platform Pack by JanaChumi](https://opengameart.org/content/platform-pack-0)
