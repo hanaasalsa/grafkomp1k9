@@ -52,7 +52,7 @@ Game movement dilakukan dengan input menggunakan keyboard
 - `Figma` : Melakukan edit asset sesuai kebutuhan game
 
 ## Screenshot Game
-### Main menu	### Main menu
+### Main menu
 ![Main Menu](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_31_55.png)
 
 
