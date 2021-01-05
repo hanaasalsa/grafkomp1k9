@@ -50,16 +50,17 @@ Game movement dilakukan dengan input menggunakan keyboard
 - `Figma` :
 
 ## Screenshot Game
-Main menu
+###Main menu
 ![Main Menu](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_31_55.png)
 
-Gameplay siang
+###Gameplay siang
 ![Gameplay siang1](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_32_09.png)
+
 ![Gameplay siang2](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_33_57.png)
 
-Next level
+###Next level
 ![Next level](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_41.png)
 
-Gameplay malam
+###Gameplay malam
 ![Gameplay malam](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_44.png)
 
