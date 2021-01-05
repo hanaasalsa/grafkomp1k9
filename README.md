@@ -53,7 +53,6 @@ Game movement dilakukan dengan input menggunakan keyboard
 
 ### Gameplay siang
 ![Gameplay siang1](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_32_09.png)
-
 ![Gameplay siang2](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_33_57.png)
 
 ### Next level
