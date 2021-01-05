@@ -50,8 +50,8 @@ Game movement dilakukan dengan input menggunakan keyboard
 ## Screenshot Game
 ![Screenshot (881)](https://user-images.githubusercontent.com/60083962/103672311-b684ea80-4fae-11eb-87c1-23d27dac2bf2.png)
 ![Screenshot (884)](https://user-images.githubusercontent.com/60083962/103672588-15e2fa80-4faf-11eb-9f15-c169c2910107.png)
-![Screenshot (886)](https://user-images.githubusercontent.com/60083962/103672602-18ddeb00-4faf-11eb-820c-d232e7a66935.png)
 ![Screenshot (896)](https://user-images.githubusercontent.com/60083962/103672650-25fada00-4faf-11eb-8ef6-27a2a1777f29.png)
+![Screenshot (886)](https://user-images.githubusercontent.com/60083962/103672602-18ddeb00-4faf-11eb-820c-d232e7a66935.png)
 ![Screenshot (889)](https://user-images.githubusercontent.com/60083962/103672613-1b404500-4faf-11eb-9329-989cef490d56.png)
 ![Screenshot (891)](https://user-images.githubusercontent.com/60083962/103672625-1e3b3580-4faf-11eb-848a-94fd042d5860.png)
 ![Screenshot (892)](https://user-images.githubusercontent.com/60083962/103672635-22675300-4faf-11eb-845f-740d82f3849f.png)
