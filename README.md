@@ -1,7 +1,7 @@
 # Farmer Saga
 Project Grafkom Kelompok 9 Paralel 1
 
-## Anggota Kelompok dan Pembagian Role
+## Anggota dan Role
 | Nama | NIM | Role |
 | ----------- | :---------: | ----------: |
 | Rian Reftian Nurochmat | G64180009 | Isi 3 - 1 |
@@ -38,4 +38,7 @@ Game movement dilakukan dengan input menggunakan keyboard
 5. Plant Pickup : [Platformer Pickups Pack by Ravenmore](https://opengameart.org/content/platformer-pickups-pack)
 6. GUI : [Blue Cartoon GUI Skin by 3d.rina](https://assetstore.unity.com/packages/2d/gui/blue-cartoon-gui-skin-19535)
 7. Sound : [Casual Jingles by GWriterStud](https://assetstore.unity.com/packages/audio/music/casual-jingles-022420-163758)
+
+## Tools
+'hahaha'
 
