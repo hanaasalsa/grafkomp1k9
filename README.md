@@ -48,6 +48,6 @@ Game movement dilakukan dengan input menggunakan keyboard
 - `Figma` :
 
 ## Screenshot Game
-
+![Screenshot (881)](https://user-images.githubusercontent.com/60083962/103672311-b684ea80-4fae-11eb-87c1-23d27dac2bf2.png)
 
 
