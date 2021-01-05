@@ -44,13 +44,25 @@ Game movement dilakukan dengan input menggunakan keyboard
 7. Sound : [Casual Jingles by GWriterStud](https://assetstore.unity.com/packages/audio/music/casual-jingles-022420-163758)
 
 ## Tools
-- `Unity Hub 2.4.4` :
-- `Unity`:
-- `Visual Studio Code` :
-- `C#` :
-- `Github` :
-- `Figma` :
+- `Unity Hub 2.4.4` : Untuk melakukan kolaborasi game unity dengan kelompok
+- `Unity`: Sebagai game editor
+- `Visual Studio Code` : Teks editor
+- `C#` : Bahasa pemrograman yang digunakan
+- `Github` : Dokumentasi project
+- `Figma` : Melakukan edit asset sesuai kebutuhan game
 
 ## Screenshot Game
-### Main menu
+### Main menu	### Main menu
+![Main Menu](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_31_55.png)
 
+
+### Gameplay siang
+![Gameplay siang1](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_32_09.png)
+
+![Gameplay siang2](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_33_57.png)
+
+### Next level
+![Next level](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_41.png)
+
+### Gameplay malam
+![Gameplay malam](https://github.com/randiandn29/grafkomp1k9/blob/main/Screenshoot/Farmer%20Saga%2005_01_2021%2020_34_44.png)
