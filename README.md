@@ -5,8 +5,8 @@ Project Grafkom Kelompok 9 Paralel 1
 | Nama | NIM | Role |
 | ----------- | :---------: | ------------- |
 | Rian Reftian Nurochmat | G64180009 | Game Programmer, Game Designer |
-| Ilham Ghiffari Noorrahmat | G64180012 | Game Programmer, Game Designer |
-| Hana Salsabila | G64180051 | Game Artist |
+| Ilham Ghiffari Noorrahmat | G64180012 | Game Artist |
+| Hana Salsabila | G64180051 | Game Programmer, Game Designer |
 
 ## Story
 Seorang petani hidup dengan damai membesarkan tanaman-tanaman nya sejak bibit hingga dapat dipanen. Pak Tani membesarkan tanaman-tanamannya dengan penuh kasih sayang seperti anaknya sendiri. Suatu hari lahannya diserang oleh para pengganggu. Tanamannya dicuri oleh para pengganggu yang merupakan segerombolan tikus tanah. Dengan segala cara, Pak Tani akan berjuang untuk mendapatkan kembali tanaman-tanaman kesayangannya. Ia menyusuri hutan, melewati jurang dan melawan para musuh demi tanaman-tanamannya. Pada akhirnya, Pak Tani percaya ia akan menyelamatkan tanaman-tanamannya!
